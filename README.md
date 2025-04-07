@@ -22,6 +22,10 @@ To create a lightweight and transparent token contract for educational, testing,
 - 📊 **Blockchain Explorer Integration**: Better traceability of token events.
 - 🔁 **Burn Functionality**: Add the ability to burn tokens from the total supply.
 
+- ## Contract Details: 0xAcfB0394d22e13B9Ab0fd9D7f190Bc9f3538d714\
+- ![image](https://github.com/user-attachments/assets/b2deab02-f662-47ae-868f-ffae8c5e142d)
+
+
 ---
 
 🛠️ Built with:
@@ -34,4 +38,6 @@ To create a lightweight and transparent token contract for educational, testing,
 3. Paste the smart contract code
 4. Compile with Solidity 0.8.x
 5. Deploy with constructor params: `_initialSupply`, `_maxSupply`
+
+6. 
 
